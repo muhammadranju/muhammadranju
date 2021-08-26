@@ -17,6 +17,7 @@ I'm a JavaScript learner. Now I'm still learning Node js javascript runtime also
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadranju&show_icons=true&count_private=true)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammadranjua&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
