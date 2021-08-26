@@ -19,8 +19,6 @@ Skills: NODE JS / JAVASCRIPT / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadranju&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muhammadranju)  
-
 ![Profile views](https://gpvc.arturio.dev/muhammadranju)  
 
 
