@@ -1,4 +1,4 @@
-![I am Node js web developer](https://pbs.twimg.com/profile_banners/988513123085701120/1630003770/600x200)
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/988513123085701120/1630008195/1500x500)
 ### Hi 👋, I'm Muhammad Ranju
 #### I'm a NodeJS Web Developer
 ![Profile views](https://gpvc.arturio.dev/muhammadranju)  
