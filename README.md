@@ -7,9 +7,9 @@ I'm a JavaScript learner. Now I'm still learning Node js javascript runtime also
 
 Skills: NODE JS / JAVASCRIPT / HTML / CSS
 
-✔️ I’m currently working on this page. 
-✔️ I’m currently learning JavaScript 
-✔️ I’m looking to collaborate on github 
+- ✔️ I’m currently working on this page. 
+- ✔️ I’m currently learning JavaScript 
+- ✔️ I’m looking to collaborate on github 
 
 
 
