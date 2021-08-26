@@ -1,6 +1,7 @@
 ![I am Node js web developer](https://pbs.twimg.com/profile_banners/988513123085701120/1630003770/600x200)
 ### Hi there 👋, I am Muhammad Ranju
 #### I am Node js web developer
+![Profile views](https://gpvc.arturio.dev/muhammadranju)  
 
 
 I'm a JavaScript learner. Now I'm still learning Node js javascript runtime also Express js and React js 
@@ -16,6 +17,8 @@ I'm a JavaScript learner. Now I'm still learning Node js javascript runtime also
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadranju&show_icons=true&count_private=true)  
 
-![Profile views](https://gpvc.arturio.dev/muhammadranju)  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 
 
