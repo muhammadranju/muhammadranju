@@ -1,6 +1,6 @@
 ![I am Node js web developer](https://pbs.twimg.com/profile_banners/988513123085701120/1630003770/600x200)
 ### Hi 👋, I'm Muhammad Ranju
-#### I am Node js web developer
+#### I'm a NodeJS Web Developer
 ![Profile views](https://gpvc.arturio.dev/muhammadranju)  
 
 
