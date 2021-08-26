@@ -17,8 +17,6 @@ I'm a JavaScript learner. Now I'm still learning Node js javascript runtime also
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadranju&show_icons=true&count_private=true)  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
