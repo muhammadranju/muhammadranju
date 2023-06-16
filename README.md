@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1239648714643234817/1676314207/1500x500)
 ### Hi 👋, I'm Muhammad Ranju
 #### I'm a NodeJS Web Developer
-![Profile views](https://gpvc.arturio.dev/muhammadranju)  
+
 
 
 I'm a JavaScript learner. Now I'm still learning Node js javascript runtime also Express js and MongoDB Database
