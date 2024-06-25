@@ -24,7 +24,7 @@ I'm a JavaScript learner. Now I'm still learning Node js javascript runtime also
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadranju&show_icons=true&count_private=true)  
 
-<a href="https://gitroll.io/profile/uj4CFlj0KiRVsY6LK3AB4TIurP2C3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uj4CFlj0KiRVsY6LK3AB4TIurP2C3" alt="GitRoll Profile Badge"  width="460" height="260"/></a>
+<a href="https://gitroll.io/profile/uj4CFlj0KiRVsY6LK3AB4TIurP2C3" target="_blank"><img src="https://res.cloudinary.com/nodelove/image/upload/v1719340361/mdranju/gaznyxmbxfdvs19ebrh0.png" alt="GitRoll Profile Badge"  width="460" height="260"/></a>
 
 
 
