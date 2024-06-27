@@ -1,31 +1,49 @@
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/988513123085701120/1706866544/1500x500)
-### Hi 👋, I'm Muhammad Ranju
-#### I'm a NodeJS Web Developer
+## Hi there 👋, I'm Muhammad Ranju.
+
+##### I'm a JavaScript back-end focused API Developer at Node.JS
+
+### I'm a JavaScript Lover 😍
 
 
 
-I'm a JavaScript learner. Now I'm still learning Node js javascript runtime also Express js and MongoDB Database
+##### I'm a JavaScript learner, I'm Still learning Node.js, Express js and MongoDB Database
 
 <h3 align="left">Languages and Tools:</h3>
-<h4> ✅ JavaScript</h4>
-<h4> ✅ NodeJS</h4>
-<h4> ✅ MongoDB</h4>
-<h4> ✅ HTML5 / CSS3 / Bootstrap5 / Tailwind CSS</h4>
-<h4> ✅ Photoshop / Illustrator</h4>
-<p align="left"> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> </a>  
-  
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> </a> 
-  
- <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="20" height="20"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20" height="20"/> </a></p>
 
+![](https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,nextjs,vite,vscode,git,github,tailwind,bash,vercel)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadranju&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadranju&show_icons=true&count_private=true)  
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=muhammadranju&label=Views&color=brightgreen&style=plastic" alt="easinwebpro" /> 
+</p>
+
+
 <a href="https://gitroll.io/profile/uj4CFlj0KiRVsY6LK3AB4TIurP2C3" target="_blank"><img src="https://res.cloudinary.com/nodelove/image/upload/v1719340361/mdranju/gaznyxmbxfdvs19ebrh0.png" alt="GitRoll Profile Badge"  width="460" height="260"/></a>
 
+<div align="center">
+
+### Now Back to the Code </🚀😊> Thanks to Visit.👍
+
+### 🔗 Connected to Me
+<div  style="display:flex; align-items: center; justify-content: center;">
+    <a href="https://www.facebook.com/aminhossainranju/">
+       <img  alt="FB" width="30px" src="https://img.icons8.com/fluent/2x/facebook-new.png" />
+     </a>
+     <a href="https://linkedin.com/in/muhammadranju">
+        <img  alt="Linkdein" width="27px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
+     </a>
+       <a href="https://twitter.com/muhammad_ranju">
+         <img alt="Twitter" width="27px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
+       </a>
+<div/>
+
+</div>
+
+ 
 
 
 
