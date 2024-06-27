@@ -13,20 +13,23 @@
 
 ![](https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,nextjs,vite,vscode,git,github,tailwind,bash,vercel)
 
+<p>
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=muhammadranju&hide_border=true&border_radius=5&card_width=800">
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadranju&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadranju&show_icons=true&count_private=true)  
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=muhammadranju&label=Views&color=brightgreen&style=plastic" alt="easinwebpro" /> 
-</p>
-
 
 <a href="https://gitroll.io/profile/uj4CFlj0KiRVsY6LK3AB4TIurP2C3" target="_blank"><img src="https://res.cloudinary.com/nodelove/image/upload/v1719340361/mdranju/gaznyxmbxfdvs19ebrh0.png" alt="GitRoll Profile Badge"  width="460" height="260"/></a>
 
-<div align="center">
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=muhammadranju&color=brightgreen&style=plastic" alt="muhammadranju" /> 
+</p>
 
-### Now Back to the Code </🚀😊> Thanks to Visit.👍
+  
+### Thanks to Visit.👍</🚀😊>
 
 ### 🔗 Connected to Me
 <div  style="display:flex; align-items: center; justify-content: center;">
@@ -40,7 +43,6 @@
          <img alt="Twitter" width="27px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
        </a>
 <div/>
-
 </div>
 
  
