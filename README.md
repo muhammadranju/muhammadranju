@@ -1,5 +1,5 @@
+## Hey there!🙂, I'm Muhammad Ranju.
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/988513123085701120/1706866544/1500x500)
-## Hi there 👋, I'm Muhammad Ranju.
 
 ##### I'm a JavaScript back-end focused API Developer at Node.JS
 
@@ -16,6 +16,8 @@
 <p>
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=muhammadranju&hide_border=true&border_radius=5&card_width=800">
 </p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadranju&theme=juicyfresh&no-bg=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadranju&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -41,6 +43,10 @@
      </a>
        <a href="https://twitter.com/muhammad_ranju">
          <img alt="Twitter" width="27px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
+       </a>
+  </a>
+       <a href="https://muhammadranju.hashnode.dev">
+         <img alt="Twitter" width="27px" src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png&color=000000" />
        </a>
 <div/>
 </div>
