@@ -1,13 +1,13 @@
 ## Hey there!🙂, I'm Muhammad Ranju.
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/988513123085701120/1706866544/1500x500)
 
-##### I'm a JavaScript back-end focused API Developer at Node.JS
+##### A JavaScript back-end focused API Developer at Node.JS
 
 ### I'm a JavaScript Lover 😍
 
 
 
-##### I'm a JavaScript learner, I'm Still learning Node.js, Express js and MongoDB Database
+##### I'm Still learning Node.js, Express.js, React.js and MongoDB Database for MERN Stack
 
 <h3 align="left">Languages and Tools:</h3>
 
