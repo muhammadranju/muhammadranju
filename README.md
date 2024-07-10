@@ -17,6 +17,10 @@
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=muhammadranju&hide_border=true&border_radius=5&card_width=800">
 </p>
 
+  <p href="https://github.com/tofael005">
+    <img width="800" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadranju&theme=github" />
+  </p>
+
 <img src="https://github-profile-trophy.vercel.app/?username=muhammadranju&theme=juicyfresh&no-bg=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadranju&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,7 +28,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadranju&show_icons=true&count_private=true)  
 
 
+
 <a href="https://gitroll.io/profile/uj4CFlj0KiRVsY6LK3AB4TIurP2C3" target="_blank"><img src="https://res.cloudinary.com/nodelove/image/upload/v1719340361/mdranju/gaznyxmbxfdvs19ebrh0.png" alt="GitRoll Profile Badge"  width="460" height="260"/></a>
+
 
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=muhammadranju&color=brightgreen&style=plastic" alt="muhammadranju" /> 
