@@ -17,11 +17,11 @@
   
   <img   width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadranju&theme=github" />
   
-  <img  width="845" src="https://github-profile-trophy.vercel.app/?username=muhammadranju&theme=juicyfresh&no-bg=true" />
  <p > 
   <img height="200"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadranju&layout=compact"/>
   <img height="200"   src="https://github-readme-stats.vercel.app/api?username=muhammadranju&show_icons=true&count_private=true"/>
  </p>
+  <img  width="845" src="https://github-profile-trophy.vercel.app/?username=muhammadranju&theme=juicyfresh&no-bg=true" />
 
 <!-- <a href="https://gitroll.io/profile/uj4CFlj0KiRVsY6LK3AB4TIurP2C3" target="_blank"><img src="https://res.cloudinary.com/nodelove/image/upload/v1719340361/mdranju/gaznyxmbxfdvs19ebrh0.png" alt="GitRoll Profile Badge"  width="460" height="260"/></a> -->
 
