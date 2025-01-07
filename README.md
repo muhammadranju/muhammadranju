@@ -1,5 +1,5 @@
 ## Hey there!🙂, I'm Muhammad Ranju.
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/988513123085701120/1706866544/1500x500)
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/988513123085701120/1736011115/1500x500)
 
 ##### I'm a JavaScript Lover 😍
 
@@ -11,7 +11,7 @@
 
 
   <img width="845" src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,nextjs,vite,git,github,tailwind,bootstrap,bash,figma,postman">
-  <img width="845"  src="https://streak-stats.demolab.com?user=muhammadranju&hide_border=true&border_radius=5&card_width=800">
+  <img width="845"  src="https://streak-stats.demolab.com?user=muhammadranju&hide_border=true&border_radius=5&card_width=800&color=dark">
   
   <img   width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadranju&theme=github" />
   
