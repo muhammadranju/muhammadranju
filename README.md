@@ -6,18 +6,17 @@
 ### A JavaScript Web App Developer.
 
 ##### Welcome to my Portfolio. I hope you well to visit, I am Muhammad Ranju I'm working BackEnd in Node.js and FontEnd in React.js. I have 2+ years of experience in Node.js, Express.js, MongoDB, React.js and other related technologies.
-
 <h3 align="left">Languages and Tools:</h3>
 
 
   <img width="845" src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,nextjs,vite,git,github,tailwind,bootstrap,bash,figma,postman">
-  <img width="845"  src="https://streak-stats.demolab.com?user=muhammadranju&hide_border=true&border_radius=5&card_width=800&color=dark">
-  
-  <img   width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadranju&theme=github" />
+<!--   <img width="845"  src="https://streak-stats.demolab.com?user=muhammadranju&hide_border=true&border_radius=5&card_width=800&theme=dark"> -->
+   <img width="845"  src="https://nirzak-streak-stats.vercel.app?user=muhammadranju&hide_border=true&border_radius=5&card_width=800&theme=radical">
+  <img   width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadranju&theme=radical" />
   
  <p > 
-  <img height="200"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadranju&layout=compact"/>
-  <img height="200"   src="https://github-readme-stats.vercel.app/api?username=muhammadranju&show_icons=true&count_private=true"/>
+  <img height="200"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadranju&layout=compact&theme=radical"/>
+  <img height="200"   src="https://github-readme-stats.vercel.app/api?username=muhammadranju&show_icons=true&count_private=true&theme=radical"/>
  </p>
   <img  width="845" src="https://github-profile-trophy.vercel.app/?username=muhammadranju&theme=juicyfresh&no-bg=true" />
 
@@ -25,7 +24,7 @@
 
 
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=muhammadranju&color=brightgreen&style=plastic" alt="muhammadranju" /> 
+ <img src="https://komarev.com/ghpvc/?username=muhammadranju&color=brightgreen&style=plasti&theme=dark" alt="muhammadranju" /> 
 </p>
 
   
