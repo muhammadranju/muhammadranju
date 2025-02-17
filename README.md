@@ -26,7 +26,7 @@
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=muhammadranju&color=brightgreen&style=plasti&theme=dark" alt="muhammadranju" /> 
 </p>
-
+<a href="https://app.daily.dev/muhammadranju"><img src="https://api.daily.dev/devcards/v2/8bzFCy1xxlwDVcdDGHAsy.png?type=wide&r=n4j" width="845" alt="Md. Ranju's Dev Card"/></a>
   
 ### Thanks to Visit.👍</🚀😊>
 
